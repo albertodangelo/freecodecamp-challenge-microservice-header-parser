@@ -1,0 +1,18 @@
+{
+  "name": "codecamp_microservice",
+  "version": "1.0.0",
+  "description": "freeCodeCamp Microservice Challenge - es soll ein Webservice eingerichtet werden, der die IP-Nummer, die Sprache und das Betriebssystem anzeigt (Daten kommen aus dem Browser)",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "author": "alberto d'angelo",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
